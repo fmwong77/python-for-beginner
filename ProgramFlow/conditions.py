@@ -5,3 +5,8 @@ if 16 <= age <= 65:
     print("Have a good day at work")
 else:
     print("Enjoy your free time")
+
+if age in range(16, 65):
+    print("Have a good day at work")
+else:
+    print("Enjoy your free time")

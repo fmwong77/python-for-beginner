@@ -5,7 +5,7 @@
 # for key in student_grades.keys():
 #   print(key)
 
-# for value in student_grades.values():
+# for value in student_grades.valu`es():
 #   print(value)
 
 # for name, grade in student_grades.items():
@@ -22,7 +22,7 @@
 
 # def foo(lists):
 #     # sum = 0
-#     # for list in lists:
+#     # for list in li`sts:
 #     #     sum = sum + float(list)
 
 #     # return sum
